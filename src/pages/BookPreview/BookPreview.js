@@ -44,7 +44,7 @@ const BookPreview = () => {
             sm: "170vh", // tablets
             md: "150vh", // small laptop
             lg: "150vh", // desktop
-            xl: "150vh",
+            xl: "100vh",
           },
 
           backgroundColor: "#f0f8ff",
