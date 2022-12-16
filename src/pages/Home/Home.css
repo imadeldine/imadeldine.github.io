@@ -1,0 +1,9 @@
+.hero-section{
+    background-image: url("../../../public/lib.jpeg");
+    height: 50vh;
+}
+.home{
+    background-color: #f0f8ff;
+    min-height: 100vh;
+
+}

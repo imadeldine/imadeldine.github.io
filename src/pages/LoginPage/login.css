@@ -1,0 +1,49 @@
+.container-login {
+  height: 100vh;
+  background-image: url("../../../public/1164611.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  padding: 50px 30px;
+  margin: 0;
+  height: 450px;
+  width: 350px;
+  background-color: #f9e8d5;
+  border-radius: 5px;
+  box-sizing: border-box;
+  transform: translate(-50%, -50%);
+  justify-content: center;
+}
+
+.form-h1 {
+  color: #000000;
+  font-size: 30px;
+  margin-top: 5%;
+}
+.form-h4 {
+  margin-top: 5%;
+  color: #000000;
+
+  padding-top: 5%;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.singindiv {
+  display: flex;
+  margin-top: 5%;
+  padding-top: 30%;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 350px) {
+  .form {
+    height: 350px;
+    width: 250px;
+  }
+}
