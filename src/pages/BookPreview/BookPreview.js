@@ -42,9 +42,9 @@ const BookPreview = () => {
             xxs: "170vh", // small phone
             xs: "170vh", // phone
             sm: "170vh", // tablets
-            md: "120vh", // small laptop
-            lg: "120vh", // desktop
-            xl: "100vh",
+            md: "150vh", // small laptop
+            lg: "150vh", // desktop
+            xl: "150vh",
           },
 
           backgroundColor: "#f0f8ff",
